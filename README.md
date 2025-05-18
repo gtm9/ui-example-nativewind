@@ -6,7 +6,7 @@ Ensure you have Node.js and Expo CLI installed on your machine.
 Clone this repository:
 
 ```bash
-git clone git@github.com:gluestack/ui-example-nativewind.git dashboard-app
+git clone git@github.com:gluestack/remi-ai-v3.git dashboard-app
 cd dashboard-app
 ```
 
@@ -28,7 +28,7 @@ This will start the Expo development server, and you can choose to run the app o
 For detailed information on each component and its props, refer to the documentation provided. => https://gluestack.io/ui/docs/home/overview/introduction
 
 ## Give it a shot!
-[Try it in your browser](https://ui-example-nativewind.vercel.app) or scan the QR code below <br/><br/>
+[Try it in your browser](https://remi-ai-v3.vercel.app) or scan the QR code below <br/><br/>
 <img src="https://qr.expo.dev/eas-update?slug=exp&projectId=42cce9b5-9fbe-4572-92ba-fc43b2437a85&groupId=5a598f1d-f9ad-4f4e-ab64-da240438da2b&host=u.expo.dev" alt="expo-icon" width="200" height="200"/> <br/>
 with the Expo Go app on your phone.
 

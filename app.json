@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ui-example-nativewind",
-    "slug": "ui-example-nativewind",
+    "name": "remi-ai-v3",
+    "slug": "remi-ai-v3",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
