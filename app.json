@@ -17,30 +17,22 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.gluestack.uiexamplenativewind"
+      "bundleIdentifier": "com.gluestack.remi-ai-v3"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.gluestack.uiexamplenativewind"
+      "package": "com.gluestack.remi-ai-v3"
     },
     "web": {
       "favicon": "./assets/favicon.png",
       "bundler": "metro"
     },
-    "extra": {
-      "eas": {
-        "projectId": "42cce9b5-9fbe-4572-92ba-fc43b2437a85"
-      }
-    },
     "owner": "gluestack",
     "runtimeVersion": {
       "policy": "appVersion"
     },
-    "updates": {
-      "url": "https://u.expo.dev/42cce9b5-9fbe-4572-92ba-fc43b2437a85"
-    }
   }
 }
